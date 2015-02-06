@@ -1,0 +1,6 @@
+# Ignore all *.tar.gz *.tgz *.gz
+*.gz
+*.tgz
+
+# Ignore directory 'man_pages2/'
+man_pages2/
