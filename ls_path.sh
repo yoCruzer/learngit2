@@ -14,3 +14,4 @@ cmds=`
     done
 } | sort | uniq `
 echo $cmds
+echo 'error'
