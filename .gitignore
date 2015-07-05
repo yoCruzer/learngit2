@@ -2,5 +2,4 @@
 *.gz
 *.tgz
 
-# Ignore directory 'man_pages2/'
-man_pages2/
+# Ignore directory
